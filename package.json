@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart":"nodemon server.js"
+    "devStart": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.16",
+    "socket.io": "^1.7.4",
     "socketio": "^1.0.0"
   }
 }
